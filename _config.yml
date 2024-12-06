@@ -9,7 +9,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Will Snow / Academic Profile"
+title                    : "Will Snow / Academic Profile v2"
 title_separator          : "-"
 name                     : &name "Will Snow"
 description              : &description "academic profile example, still working on it"
