@@ -1,5 +1,8 @@
 # Site Build Settings
 
+# this is the config file being synced 
+# 241212 initial test edits .
+
 # Jekyll-paginate-v2 configuration
 #  pagination:
 #   enabled: true
@@ -20,9 +23,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Data Management'
+description:	       'lessons learned about research data workflow'
+author:              'wdsnow'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
