@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+I'm an engineer, starting as an electronics engineer and later as a database designer and user of data analytics applications. I'd like to capture here what I've learned about academic research data workflow. As a Stanford grad, I'll relate this back to resources at my alma mater but our academic insitution will have similar reosources. My website [my personal website](https://stanford.edu/~wdsnow/) has more information on my other projects and contact information.
