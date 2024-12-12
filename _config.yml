@@ -24,7 +24,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Data Management'
-description:	       'lessons learned about research data workflow'
+description:	       '| research data workflow - lessons learned'
 author:              'wdsnow'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
