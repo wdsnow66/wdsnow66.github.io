@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Resources for Researchers"
+author: "wdsnow"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg

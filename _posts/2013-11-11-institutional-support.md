@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guidelines for Researchers"
+title: "Institutional Support"
 author: "wdsnow"
 categories: journal
 tags: [documentation,sample]
@@ -9,7 +9,7 @@ image: cards.jpg
 
 # Markdown Support
 
-Peel off the Guidelines page. As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+What services are available in the Institution. Peel off the Guidelines page. As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
 ## Basic Formatting
 

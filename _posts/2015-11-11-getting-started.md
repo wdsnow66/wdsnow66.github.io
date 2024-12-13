@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lessons Learned"
+title: "Research Data Workflow"
 author: "wdsnow"
 categories: journal
 tags: [documentation,sample]

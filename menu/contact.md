@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+There is a service desk for Stanford researchers, use this [service request](https://stanford.service-now.com/it_services?). Or feel free to contact me see [About Me]({{ site.github.url }}{% post_url 2013-04-04-about-the-author %}). 
