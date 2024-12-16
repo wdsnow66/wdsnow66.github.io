@@ -2,7 +2,6 @@
 layout: post
 title: "About the Author"
 author: "wdsnow"
-date: 2024-06-01
 categories: journal
 tags: [documentation,author]
 image: semi_glow.jpg
