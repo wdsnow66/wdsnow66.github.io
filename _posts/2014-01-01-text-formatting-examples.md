@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Institutional Support"
-author: "wdsnow"
+title: "Text Formatting Examples"
+author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: setr_book.jpg
+image: cards.jpg
 ---
 
-# Institutional Support
+# Markdown Support
 
-What services are available in the Institution. Peel off the Guidelines page. As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
 ## Basic Formatting
 
