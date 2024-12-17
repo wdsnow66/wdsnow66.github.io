@@ -2,6 +2,7 @@
 
 # this is the config file being synced 
 # 241212 initial test edits .
+# 241216 had to roll back because of build, new process .
 
 # Jekyll-paginate-v2 configuration
 #  pagination:
@@ -14,7 +15,7 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            7
 
 # Build settings
 markdown:            kramdown
@@ -23,7 +24,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Data Management2'
+title:		           'Data Management'
 description:	       'research data workflow - lessons learned'
 author:                'wdsnow'
 
