@@ -15,8 +15,8 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# Site Setting defaults
-
+# Site Setting
+hide_post_share:     false
 
 # jekyll-paginate configuration
 paginate:            7
