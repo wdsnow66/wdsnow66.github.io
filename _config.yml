@@ -16,7 +16,7 @@
 #   sort_reverse: true
 
 # Site Setting
-hide_post_share:     false
+hide_post_share:     true
 
 # jekyll-paginate configuration
 paginate:            7
