@@ -12,7 +12,7 @@ Site includes lessons learned, guidelines and resources.
 
 ## Lessons Learned
  
-Lessons learned from a decade of research data workflow in CREDO resulting in a seminal paper. See [CREDO Lessons Learned]({{ site.github.url }}{% post_url 2024-07-01-credo-lessons-learned %})
+Lessons learned from a decade of research data workflow in CREDO resulting in a seminal paper. See **CREDO Lessons Learned**
 
 ## Workflow
 
@@ -20,5 +20,5 @@ Lessons became a tried and true research data workflow.
 
 ## The Institutional Commitment and Researcher Guidelines
 
-The institution is committed to supporting this best practice as described on this post [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}). Based on stated principles, the institution offers  [Guidelines for Researchers]({{ site.github.url }}{% post_url 2024-09-01-guidelines-for-researchers %}) and shares [Resources for Researchers]({{ site.github.url }}{% post_url 2024-08-01-resources-for-researchers %}) from within the institution or the community.
+The institution is committed to supporting this best practice as described on this post [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}). Based on stated principles, the institution offers  **Guidelines for Researchers** and shares **Resources for Researchers** from within the institution or the community.
 
