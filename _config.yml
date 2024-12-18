@@ -15,8 +15,12 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-# Site Settings
-hide_related_posts:  'true'
+# Site Setting defaults
+scope:
+      path: ""
+      type: "posts"
+    values:
+      hide_related_posts:  "true"
 
 # jekyll-paginate configuration
 paginate:            7
