@@ -4,7 +4,7 @@ title: "Welcome to Research Data Management"
 author: "wdsnow"
 categories: journal
 tags: [documentation,sample]
-image: credo_splash.jpg
+image: stanford-techreview.jpg
 ---
 
 ## Welcome to Research Data
