@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Research Data Management"
 author: "wdsnow"
 categories: journal
-tags: [documentation,sample]
+tags: [documentation,intro]
 image: stanford-techreview.jpg
 ---
 
