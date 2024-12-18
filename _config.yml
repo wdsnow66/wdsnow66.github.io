@@ -3,6 +3,7 @@
 # this is the config file being synced 
 # 241212 initial test edits .
 # 241216 had to roll back because of build, new process .
+# 241217 adding site settings
 
 # Jekyll-paginate-v2 configuration
 #  pagination:
@@ -13,6 +14,9 @@
 #   limit: 0
 #   sort_field: 'date'
 #   sort_reverse: true
+
+# Site Settings
+hide_related_posts:  'true'
 
 # jekyll-paginate configuration
 paginate:            7
