@@ -4,7 +4,7 @@ title: "Guidelines for Researchers"
 author: "wdsnow"
 categories: journal
 tags: [documentation,guidelines]
-image: units-ops.jpg
+image: homepage.jpg
 ---
 
 > “Government and Philanthropic funding of research carries increasing requirements for Data Management Planning and Sharing.”
