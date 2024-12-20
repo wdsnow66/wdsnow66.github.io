@@ -32,6 +32,6 @@ title:		           'Data Management'
 description:	       'research data workflow - lessons learned'
 author:                'wdsnow'
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines (Icon in settings)
+feed:
+  path: rss-feed.xml
