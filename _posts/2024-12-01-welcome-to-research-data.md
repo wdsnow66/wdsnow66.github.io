@@ -20,5 +20,5 @@ Lessons became a tried and true research data workflow.
 
 ## The Institutional Commitment and Researcher Guidelines
 
-The institution is committed to supporting this best practice as described on this post **Institutional Support**. Based on stated principles, the institution offers  **Guidelines for Researchers** and shares **Resources for Researchers** from within the institution or the community.
+The institution is committed to supporting this best practice as described on this post [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}). Based on stated principles, the institution offers  **Guidelines for Researchers** and shares **Resources for Researchers** from within the institution or the community.
 
