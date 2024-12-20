@@ -4,16 +4,19 @@ title: About this Site
 permalink: /about
 ---
 
-This site is an after-action reflection on a lengthy research project based on accumulating a large dataset and develoipment of quantitative analyses. The result was a longitudinal study and conclusions that resulted in this [paper] (https://ncss3.stanford.edu/).
+This site is knowledge sharing based on a decade of work in an academic quantitative research team, including lessons learned, guidelines and resources. This is a prototype site for show and tell about Services for Research Data Management.
 
-### Lessons learned about Researach Data Workflow
+### Site Organization
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): this bullet is about lessons learned over a decade on the project.
+This post describes the intent and organization of the site: [Welcome to Research Data]({{ site.github.url }}{% post_url 2024-12-01-welcome-to-research-data %}).
 
-### Guidelines for Researcers
+### Posts
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %}): this bullet is about sharing guidelines for the Researcher.
+This page lists all the posts and is available in the top menu: [Writing](https://wdsnow66.github.io/writing.html).
 
 ### Questions?
 
-Operating as a service desk -> link to Contact Page. [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+This page lists where to go for answers and is available in the top menu: [Writing](https://wdsnow66.github.io/contact.html).
+
+
+_last edited 12/20/2024_
