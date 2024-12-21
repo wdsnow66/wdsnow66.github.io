@@ -12,19 +12,25 @@ image: credo_splash.jpg
 CREDO project and lessons learned. Read the [paper](https://ncss3.stanford.edu/){:target="_blank"} 
 
 ## CREDO Data
-
-## Data Flow block diagram
 ![alt text](https://wdsnow66.github.io/assets/img/credo-data.jpg "CREDO Data")
 
+## Data Flow block diagram
+![alt text](https://wdsnow66.github.io/assets/img/credo-workflow.jpg "CREDO Workflow")
+
 ## Analytic tools and workflow
+![alt text](https://wdsnow66.github.io/assets/img/credo-software.jpg "CREDO Software")
 
 ## Server Architecture
+![alt text](https://wdsnow66.github.io/assets/img/credo-servers.jpg "CREDO Servers")
 
 ## Data organization
 
 ## Data Security
 
 ## Lessons Learned
+![alt text](https://wdsnow66.github.io/assets/img/credo-lessons.jpg "CREDO Lessons Learned")
+
+## Lessons Learned Detail
 * Desktop Stata workflow and Microsoft Access database
 * Central server 
 * Split database: Microsoft Access DB and SQL Server 
