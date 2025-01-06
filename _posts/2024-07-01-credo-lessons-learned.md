@@ -9,9 +9,10 @@ image: credo_splash.jpg
 
 # CREDO Lessons Learned
 
-This is a post describing the National Charter School Study project, implementation, and lessons learned from a decade of research data workflow and database design in CREDO at Stanford, resulting in a seminal paper on K-12 School Choice. I was deeply involved in the database design, front-end and back-end implementation, and analyst support. I became increasingly involved with research data management, data cleaning, backup, data use agreements, and ultimately data sanitizaiton. Stata was our tool of choice and it is a power-tool for data analytics. Read the [paper](https://ncss3.stanford.edu/){:target="_blank"} 
+This Post describes the National Charter School Study project, implementation, and lessons learned from a decade of research data workflow and database design in CREDO at Stanford, resulting in a seminal paper on K-12 School Choice. I was deeply involved in the database design, front-end and back-end implementation, and analyst support. I became increasingly involved with research data management, data cleaning, backup, data use agreements, and ultimately data sanitizaiton. Stata was our tool of choice and it is a power-tool for data analytics. Please visit the project results [As a Matter of Fact: The National Charter School Study III](https://ncss3.stanford.edu/){:target="_blank"} 
 
 ## CREDO Data
+CREDO acquired student test score data from 28 States. This data was gathered year by year into a longitudinal dataset that could be linked by de-identified student ID. Thus student growth could be evaluated year to year. Data on the K-12 schools were also collected annually in a local database that could be easily merged into the data workflow based on a unique school ID.
 ![alt text](https://wdsnow66.github.io/assets/img/credo-data.jpg "CREDO Data")
 
 ## Data Flow block diagram
