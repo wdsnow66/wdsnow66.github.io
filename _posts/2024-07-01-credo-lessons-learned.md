@@ -20,6 +20,8 @@ The CREDO team created a well-architected, well documented, and well implemented
 ![alt text](https://wdsnow66.github.io/assets/img/credo-workflow.jpg "CREDO Workflow")
 
 ## Data organization
+The team used a folder format similar to the TIER protocol shown here. Thanks to John Borghi [Research Data Presentation](https://docs.google.com/presentation/d/1QTVpYNQUxyaEfcf0BZKLjN6pmCviWBA6/edit#slide=id.p39){:target="_blank"} .
+![alt text](https://wdsnow66.github.io/assets/img/tier.png "TIER Folders")
 
 ## Analytic tools and workflow
 Stata was at the center of the analytic workflow.  
