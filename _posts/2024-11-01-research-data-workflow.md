@@ -15,6 +15,8 @@ Research Data Lifecycle by Harvard Longwood Medical School's [Research Data Mana
 
 ## Steps
 
+There are a variety of resources at Stanford and other academic research institutions. An emerging website from UIT CSC that identifies resources related to the Research Data Workflow is the [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"} .
+
 ### Plan & Design
 * Data Management Plan (Data Types, Data Org & storage, Tools, Data Standards, Data timelines, Data Sharing Agreements, Oversight)
 * Collecting – Sources, Consent & Privacy

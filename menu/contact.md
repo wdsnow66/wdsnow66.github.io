@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-There is a service desk for Stanford researchers, use this [service request](https://stanford.service-now.com/it_services?). Or feel free to contact me see [About Me]({{ site.github.url }}{% post_url 2013-04-04-about-the-author %}). 
+There is a Library and Archives service desk for Researchers, enter your need using this form [Get Hoover Library & Archives Assistance](https://stanford.service-now.com/it_services?id=sc_cat_item&sys_id=7fd988bf1b5fb34094c0fee58d4bcb86). For more general Stanford IT questions, Researchers should use this [service request form](https://stanford.service-now.com/it_services?). Or feel free to contact me see [About Me]({{ site.github.url }}{% post_url 2013-04-04-about-the-author %}). 
