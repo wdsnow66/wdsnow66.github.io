@@ -3,7 +3,7 @@ layout: post
 title: "Research Data Workflow"
 author: "wdsnow"
 categories: journal
-tags: [documentation, data, workflow]
+tags: [documentation, data, workflow, resources]
 image: rdm_lifecycle.png
 ---
 
@@ -53,9 +53,9 @@ Research Data Lifecycle by Harvard Longwood Medical School's [Research Data Mana
 
 ## See a Case Study
 
-Credo lessons learned page.
+A post describing the project, implementation, and lessons while supporting the research data workflow and database design in the Center for Research on Education Outcomes (CREDO) at Stanford, resulting in a seminal paper on K-12 School Choice. View [CREDO Lessons Learned]({{ site.github.url }}{% post_url 2024-07-01-credo-lessons-learned %}) .
 
 ## Resources
 
-Hoover committed to supporting research [GitHub Pages](https://pages.github.com/). Hoover requires some Guidelines. Campus and other Resources  [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. 
+The institution is committed to supporting best practice for research data workflows, please view [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}) . The institution offers some Guidelines for Researchers, please view [Guidelines for Researchers]({{ site.github.url }}{% post_url 2024-09-01-guidelines-for-researchers %}). There are many Campus and other Resources available to help Research teams, please view [Resources for Researchers]({{ site.github.url }}{% post_url 2024-08-01-resources-for-researchers %}) for more information. 
 
