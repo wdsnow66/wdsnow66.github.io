@@ -4,7 +4,7 @@ title: About this Site
 permalink: /about
 ---
 
-This site is for knowledge sharing based on a decade of work within an academic quantitative research team, including lessons learned, guidelines and resources. This is a prototype site for show and tell about potential Services for Research Data Management.
+This site is for knowledge sharing about the research data workflow based on a decade of work within an academic quantitative research team, including lessons learned, guidelines and resources. This is a prototype site to be used as a limited show and tell about potential Services for Research Data Management and Governance.
 
 ### Site Organization
 
