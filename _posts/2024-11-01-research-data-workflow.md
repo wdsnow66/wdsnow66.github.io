@@ -15,7 +15,7 @@ The research lifecycle refers to the process of conducting research, from the in
 
 ## Steps
 
-There are a variety of resources at Stanford and other academic research institutions. An emerging website from UIT CSC that identifies resources related to the Research Data Workflow is the [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"} .
+There is an increased emphasis on managing and sharing data produced in research. Many of the research funders supporting work at the University require that research data are made openly available with as few restrictions as possible. A Researcher should carefully plan the various aspects of research data management early in the project – how to plan, create, organize, look after and share research materials, whatever form they take – and anticipate meeting funders’ expectations and good research practice. 
 
 ### Plan & Design
 * Data Management Plan - anticipating the data lifecycle for the project:
@@ -60,5 +60,5 @@ A post describing the project, implementation, and lessons while supporting the 
 
 ## Resources
 
-The institution is committed to supporting best practice for research data workflows, please view [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}) . The institution offers some Guidelines for Researchers, please view [Guidelines for Researchers]({{ site.github.url }}{% post_url 2024-09-01-guidelines-for-researchers %}). There are many Campus and other Resources available to help Research teams, please view [Resources for Researchers]({{ site.github.url }}{% post_url 2024-08-01-resources-for-researchers %}) for more information. 
+The institution is committed to supporting best practice for research data workflows, please view [Institutional Support]({{ site.github.url }}{% post_url 2024-10-01-institutional-support %}) . The institution offers some Guidelines for Researchers, please view [Guidelines for Researchers]({{ site.github.url }}{% post_url 2024-09-01-guidelines-for-researchers %}). There are a variety of resources at Stanford University and other academic research institutions to help Research teams, please view [Resources for Researchers]({{ site.github.url }}{% post_url 2024-08-01-resources-for-researchers %}) for more information. 
 
