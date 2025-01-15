@@ -3,13 +3,13 @@ layout: post
 title: "Research Data Workflow"
 author: "wdsnow"
 categories: journal
-tags: [documentation, data, workflow, resources]
+tags: [documentation, data, workflow, resources, planning]
 image: rdm_lifecycle.png
 ---
 
 # The Research Data Workflow and Lifecycle
 
-Research Data Workflow and Lifecycle. The research lifecycle refers to the process of conducting research, from the initial planning, funding, and designing of a project to publishing and disseminating the conclusions or scholarship. Although the research process varies across disciplines and research domains, it often includes validating a model or hypothesis by using information and data. This site refers to data in the broadest sense of the word, including experimental, observational, acquired, and simulated data, as well as any relevant information, artifacts, and original sources. The research lifecycle also includes publishing the data, code, and workflows to facilitate the reproducibility of the published results.
+The research lifecycle refers to the process of conducting research, from the initial planning, funding, and designing of a project to publishing and disseminating the conclusions or scholarship. Although the research process varies across disciplines and research domains, it often includes validating a model or hypothesis by using information and data. This site refers to data in the broadest sense of the word, including experimental, observational, acquired, and simulated data, as well as any relevant information, artifacts, and original sources. The research lifecycle also includes publishing the data, code, and workflows to facilitate the reproducibility of the published results.
 
 Research Data Lifecycle by Harvard Longwood Medical School's [Research Data Management Working Group](https://datamanagement.hms.harvard.edu/about-rdmwg){:target="_blank"} and is licensed under a Creative Commons [Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 
@@ -18,21 +18,22 @@ Research Data Lifecycle by Harvard Longwood Medical School's [Research Data Mana
 There are a variety of resources at Stanford and other academic research institutions. An emerging website from UIT CSC that identifies resources related to the Research Data Workflow is the [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"} .
 
 ### Plan & Design
-* Data Management Plan (Data Types, Data Org & storage, Tools, Data Standards, Data timelines, Data Sharing Agreements, Oversight)
+* Data Management Plan - anticipating the data lifecycle for the project:
 * Collecting – Sources, Consent & Privacy
 * Storing - Data Security
-* Processing – third parties
+* Processing – tools, data standards, third parties
 * Sharing - Data Security
-* Retaining - Data Security, data sanitization
-* Accountability
+* Retaining - Data Security, timelines, data sanitization
+* Accountability - oversight
 
 ### Collect & Analyze
 * Buying and Licensing Data, Retrieval
-* Data Use Agreement Processing
-* Research Data Management (datatypes, metadata, storage, security, sharing, citing, privacy)
+* Data Use Agreements Processing
+* Research Data Management (datatypes, data organization, metadata, storage, security, sharing, citing, privacy)
 * Data Science (analysis, coding, and organizational tasks)
 * Data Cleaning and Curation
 * Analytic Software Tools and workflow
+* Collaborative workflows
 * Data Visualization
 * Database and Dataset Creation
 * Text Analysis
@@ -40,7 +41,7 @@ There are a variety of resources at Stanford and other academic research institu
 * Data Center Hosted Computing, Virtual and Cloud Computing
 
 ### Store & Preserve
-* On premise storage
+* On premise storage, data backup
 * Cloud storage
 * NIST Data Destruction
 
