@@ -19,7 +19,7 @@ There are a variety of resources at Stanford and other academic research institu
 ## Within the University
 * For more general Stanford IT questions, Researchers should use this [service request form](https://stanford.service-now.com/it_services?)
 * Dean of Research [Manage Research Data](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
-* GSB Library [Research Hub](https://gsbresearchhub.stanford.edu/){:target="_blank"} .
+* GSB Library [Research Hub](https://gsbresearchhub.stanford.edu/){:target="_blank"}
 * Lane Library [Research and Data Services](https://lane.stanford.edu/using-lib/research-service.html){:target="_blank"}
 * Green Library [Research Data Services](https://library.stanford.edu/libraries/research-data-services){:target="_blank"}
 * Stanford [Minimum Security Standards](https://uit.stanford.edu/guide/securitystandards)
@@ -29,6 +29,8 @@ There are a variety of resources at Stanford and other academic research institu
 * UIT High Performance Computing Center [HPCC](https://hpcc.stanford.edu/){:target="_blank"}
 * UIT [Storage Recommendations](https://uit.stanford.edu/storage){:target="_blank"}
 * Redivis [Data Farm](https://redivis.com/Stanford){:target="_blank"}
+
+> Another emerging website from Stanford DOR is the [Community of Shared Reseaerch Platforms](https://csharp.stanford.edu/) (C-ShaRP) enhancing shared research facilities. Here is their Wiki about [data research workflow](https://sites.google.com/stanford.edu/c-sharpwikipage/about?authuser=0){:target="_blank"}.
 
 ## Other Research Centers
 * Harvard [Research Lifecycle](https://researchsupport.harvard.edu/research-lifecycle){:target="_blank"}
