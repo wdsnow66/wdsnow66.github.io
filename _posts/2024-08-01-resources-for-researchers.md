@@ -38,10 +38,10 @@ There are a variety of resources at Stanford and other academic research institu
 * Cambridge [Research Data](https://www.data.cam.ac.uk/){:target="_blank"}
 
 ## Good websites by type
-* Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool)
-* A secure platform for developing and sharing reproducible methods [protocol.io](https://www.protocols.io/)
-* Persistent identifiers for Researchers [ORCID](https://orcid.org/)
+* Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool){:target="_blank"}
+* A secure platform for developing and sharing reproducible methods [protocol.io](https://www.protocols.io/){:target="_blank"}
+* Persistent identifiers for Researchers [ORCID](https://orcid.org/){:target="_blank"}
 * Data Organization [TIER Protocol](https://www.projecttier.org/tier-protocol/){:target="_blank"}
-* Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data)
-* Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/)
-* Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/)
+* Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
+* Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/){:target="_blank"}
+* Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/){:target="_blank"}
