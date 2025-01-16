@@ -34,7 +34,7 @@ Researchers should manage data in a manner that is consistent with academic norm
 * To the extent possible given the requirements of the research, researchers should avoid acquiring or generating data that restrict future use and sharing.
 * The institution should provide resources and training that support compliance with legal obligations.
 
-## The Institutional Commitment and Researcher Guidelines
+## The Institutional Commitment
 Considering these Principles, the institution shall:
 
 * Engender culture of good practice in data management as key to an efficient and effective research process and as a fundamental commitment to research sponsors. 
