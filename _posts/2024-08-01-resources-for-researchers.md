@@ -26,14 +26,14 @@ There are a variety of resources at Stanford and other academic research institu
   - Persistent identifiers for Researchers [ORCID](https://orcid.org/){:target="_blank"}
   - Data Organization [TIER Protocol](https://www.projecttier.org/tier-protocol/){:target="_blank"}
 * Sharing
-** Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
-** Share files securely at Stanford in [Google My Drive](https://uit.stanford.edu/service/gsuite/drive/secureshare){:target="_blank"}
-** Host a website directly from your GitHub repository with [GitHub Pages](GitHub Pages website hosted directly from your GitHub repository){:target="_blank"}
-** Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/){:target="_blank"}
-** Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/){:target="_blank"}
+  - Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
+  - Share files securely at Stanford in [Google My Drive](https://uit.stanford.edu/service/gsuite/drive/secureshare){:target="_blank"}
+  - Host a website directly from your GitHub repository with [GitHub Pages](GitHub Pages website hosted directly from your GitHub repository){:target="_blank"}
+  - Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/){:target="_blank"}
+  - Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/){:target="_blank"}
 *Retaining
-** Nature list of [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories#general){:target="_blank"}
-** Stanford Digital Repository [SDR](https://sdr.stanford.edu/){:target="_blank"}
+  - Nature list of [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories#general){:target="_blank"}
+  - Stanford Digital Repository [SDR](https://sdr.stanford.edu/){:target="_blank"}
 
 ## Within the University
 * Dean of Research [Manage Research Data](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
