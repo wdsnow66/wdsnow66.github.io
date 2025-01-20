@@ -18,13 +18,13 @@ There are a variety of resources at Stanford and other academic research institu
 
 ## Good websites by type
 * Research Data Workflow
-** UIT Computer Research Conslting [CSC Research Lab Support](https://uit.stanford.edu/service/research-lab-support-service){:target="_blank"}
++ UIT Computer Research Conslting [CSC Research Lab Support](https://uit.stanford.edu/service/research-lab-support-service){:target="_blank"}
 * Planning
-** Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool){:target="_blank"}
++ Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool){:target="_blank"}
 * Processing
-** A secure platform for developing and sharing reproducible methods [protocol.io](https://www.protocols.io/){:target="_blank"}
-** Persistent identifiers for Researchers [ORCID](https://orcid.org/){:target="_blank"}
-** Data Organization [TIER Protocol](https://www.projecttier.org/tier-protocol/){:target="_blank"}
++ A secure platform for developing and sharing reproducible methods [protocol.io](https://www.protocols.io/){:target="_blank"}
++ Persistent identifiers for Researchers [ORCID](https://orcid.org/){:target="_blank"}
++ Data Organization [TIER Protocol](https://www.projecttier.org/tier-protocol/){:target="_blank"}
 * Sharing
 ** Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
 ** Share files securely at Stanford in [Google My Drive](https://uit.stanford.edu/service/gsuite/drive/secureshare){:target="_blank"}
