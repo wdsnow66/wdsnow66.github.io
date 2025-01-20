@@ -31,7 +31,7 @@ There are a variety of resources at Stanford and other academic research institu
   - Host a website directly from your GitHub repository with [GitHub Pages](GitHub Pages website hosted directly from your GitHub repository){:target="_blank"}
   - Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/){:target="_blank"}
   - Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/){:target="_blank"}
-*Retaining
+* Retaining
   - Nature list of [Scientific Data Repositories](https://www.nature.com/sdata/policies/repositories#general){:target="_blank"}
   - Stanford Digital Repository [SDR](https://sdr.stanford.edu/){:target="_blank"}
 
