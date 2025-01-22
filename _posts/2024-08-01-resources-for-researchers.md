@@ -10,7 +10,7 @@ image: reference-desk.jpg
 ## Resources for Researchers
 
 There are a variety of resources at Stanford and other academic research institutions. 
-> An emerging website from UIT CSC that identifies resources related to the Research Data Workflow is the [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"}.
+> An emerging website from UIT CRC that identifies resources related to the Research Data Workflow is the [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"}.
 
 ## Within the Institution
 * Library and Archives [Research Services](https://www.hoover.org/library-archives/research-services){:target="_blank"}
@@ -18,7 +18,7 @@ There are a variety of resources at Stanford and other academic research institu
 
 ## Good websites by type
 * Research Data Workflow
-  - UIT Computer Research Conslting [CSC Research Lab Support](https://uit.stanford.edu/service/research-lab-support-service){:target="_blank"}
+  - UIT Computer Research Conslting [CRC Research Lab Support](https://uit.stanford.edu/service/research-lab-support-service){:target="_blank"}
 * Planning
   - Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool){:target="_blank"}
   - see also a "mini-plan" at the bottom of the [CREDO Lessons Learned]({{ site.github.url }}{% post_url 2024-07-01-credo-lessons-learned %}) page
