@@ -21,7 +21,7 @@ There are a variety of resources at Stanford and other academic research institu
   - UIT Computer Research Conslting [CSC Research Lab Support](https://uit.stanford.edu/service/research-lab-support-service){:target="_blank"}
 * Planning
   - Stanford Data Management Planning site [DMP Tool](https://doresearch.stanford.edu/resources/tools-documents/dmp-tool){:target="_blank"}
-  - see also a "mini-plan" at the bottom of Credo Lessons Learned page [CREDO Lessons Learned]({{ site.github.url }}{% post_url 2024-07-01-credo-lessons-learned %})
+  - see also a "mini-plan" at the bottom of the [CREDO Lessons Learned]({{ site.github.url }}{% post_url 2024-07-01-credo-lessons-learned %}) page
 * Processing
   - A secure platform for developing and sharing reproducible methods [protocol.io](https://www.protocols.io/){:target="_blank"}
   - Persistent identifiers for Researchers [ORCID](https://orcid.org/){:target="_blank"}
