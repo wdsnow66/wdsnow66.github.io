@@ -41,9 +41,9 @@ There are a variety of resources at Stanford and other academic research institu
 * GSB Library [Research Hub](https://gsbresearchhub.stanford.edu/){:target="_blank"}
 * Lane Library [Research and Data Services](https://lane.stanford.edu/using-lib/research-service.html){:target="_blank"}
 * Green Library [Research Data Services](https://library.stanford.edu/libraries/research-data-services){:target="_blank"}
-* Stanford [Minimum Security Standards](https://uit.stanford.edu/guide/securitystandards)
+* Stanford [Minimum Security Standards](https://uit.stanford.edu/guide/securitystandards){:target="_blank"}
 * Stanford [Privacy Office](https://privacy.stanford.edu/){:target="_blank"}
-* UIT Computer Research Conslting ad hoc services [CRC](https://uit.stanford.edu/crc)
+* UIT Computer Research Conslting ad hoc services [CRC](https://uit.stanford.edu/crc){:target="_blank"}
 * UIT Client Technology Solutions and Consulting for managed IT services [CTSC](https://uit.stanford.edu/ctsc){:target="_blank"}
 * UIT High Performance Computing Center [HPCC](https://hpcc.stanford.edu/){:target="_blank"}
 * Stanford Cloud Computing with [Cardinal Cloud](https://uit.stanford.edu/cardinal-cloud){:target="_blank"}
