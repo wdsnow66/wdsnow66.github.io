@@ -16,7 +16,7 @@ This page lists all the posts, and is available in the top menu: [Writing](https
 
 ### Questions?
 
-This page lists where to go for answers, and is available in the top menu: [Writing](https://wdsnow66.github.io/contact.html).
+This page lists where to go for answers, and is available in the top menu: [Contact](https://wdsnow66.github.io/contact.html).
 
 
 _last edited 12/20/2024_
