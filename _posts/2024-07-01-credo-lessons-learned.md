@@ -70,4 +70,34 @@ The student data was shared by States under respective Data Use Agreements negot
 
 ## Outline for your Data Plan
 
-TBD
+### Data Management and Sharing Plan (SMSP)
+
+* Data Types
+  - types and estimated amount of scientific data 
+  - which data will be preserved and shared and the rationale for these decisions
+  
+* Data Organization and Storage
+  - file and var naming, folder structures (TIER), connections, documentation
+  - storage plan, backups
+  - Project documentation, Data documentation
+  
+* Related Tools, Software and/or Code
+  - specialized tools needed to access or manipulate shared data to support replication or reuse
+  - names and needed tools and software
+  
+* Data Standards
+  - what standards will be applied to the scientific data and associated metadata to be collected
+  - includes formats, data identifiers, definitions, unique identifiers
+  - other data documentation
+  
+* Data Preservation, Access and Associated Timelines
+  - indication of the timelines for data preservation and access
+ 
+* Data Sharing Agreements, Licenses, and Other User Limitations
+  - many funders encourage broadest use of scientific data
+  - consistent with privacy, security, informed consent, proprietary issues
+  - methods and timelines for data destruction
+  
+* Oversight of Data Management
+  - individuals who will be responsible for executing various component (data collection, data analysis, data submission)
+  - roles
