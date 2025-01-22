@@ -68,7 +68,9 @@ The student data was shared by States under respective Data Use Agreements negot
 * New server switch-over
 * Developmental installs of other potential analytic tools e.g. Python, R
 
+
 ## Outline for your Data Plan
+Based on the CREDO experience and benchmarking other research data workflows and the DMP tool, I would recommend this as a "mini-plan" format:
 
 ### Data Management and Sharing Plan (SMSP)
 
