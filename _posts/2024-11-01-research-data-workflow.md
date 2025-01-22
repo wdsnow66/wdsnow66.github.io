@@ -7,11 +7,11 @@ tags: [documentation, data, workflow, resources, planning]
 image: rdm_lifecycle.png
 ---
 
+> The Research Data Lifecycle diagram above is by Harvard Longwood Medical School's [Research Data Management Working Group](https://datamanagement.hms.harvard.edu/about-rdmwg){:target="_blank"} and is licensed under a Creative Commons [Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
+
 # The Research Data Workflow and Lifecycle
 
 The research lifecycle refers to the process of conducting research, from the initial planning, funding, and designing of a project to publishing and disseminating the conclusions or scholarship. Although the research process varies across disciplines and research domains, it often includes validating a model or hypothesis by using information and data. This site refers to data in the broadest sense of the word, including experimental, observational, acquired, and simulated data, as well as any relevant information, artifacts, and original sources. The research lifecycle also includes publishing the data, code, and workflows to facilitate the reproducibility of the published results.
-
-> The Research Data Lifecycle diagram above is by Harvard Longwood Medical School's [Research Data Management Working Group](https://datamanagement.hms.harvard.edu/about-rdmwg){:target="_blank"} and is licensed under a Creative Commons [Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"}.
 
 ## Steps
 
@@ -19,12 +19,12 @@ There is an increased emphasis on managing and sharing data produced in research
 
 ### Plan & Design
 * Data Management Plan - anticipating the data lifecycle for the project:
-* Collecting – Sources, Consent & Privacy
-* Storing - Data Security
-* Processing – tools, data standards, third parties
-* Sharing - Data Security
-* Retaining - Data Security, timelines, data sanitization
-* Accountability - oversight
+  - Collecting – Sources, Consent & Privacy
+  - Storing - Data Security
+  - Processing – Tools, data standards, third parties
+  - Sharing - Data Security
+  - Retaining - Data Security, timelines, data sanitization
+  - Accountability - Oversight
 
 ### Collect & Analyze
 * Buying and Licensing Data, Retrieval
