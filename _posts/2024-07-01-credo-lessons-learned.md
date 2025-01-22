@@ -94,6 +94,7 @@ Based on the CREDO experience and benchmarking other research data workflows and
   
 * Data Preservation, Access and Associated Timelines
   - indication of the timelines for data preservation and access
+  - plan for NIST data destruction at end of project
  
 * Data Sharing Agreements, Licenses, and Other User Limitations
   - many funders encourage broadest use of scientific data
