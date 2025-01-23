@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Template Author"
+title: "About the Author"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
