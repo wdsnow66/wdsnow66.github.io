@@ -8,4 +8,4 @@ There is a Hoover Library and Archives service desk for Researchers, use this fo
 
 For more general Stanford IT questions, Researchers should use this [service request form](https://stanford.service-now.com/it_services?){:target="_blank"}. 
 
-Or feel free to contact me, see [About Me]({{ site.github.url }}{% post_url 2013-04-04-about-the-author %}). 
+Or feel free to contact me, see [About Me]({{ site.github.url }}{% post_url 2024-06-01-about-the-author %}). 

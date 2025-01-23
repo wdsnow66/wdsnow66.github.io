@@ -19,4 +19,4 @@ This page lists all the posts, and is available in the top menu: [Writing](https
 This page lists where to go for answers, and is available in the top menu: [Contact](https://wdsnow66.github.io/contact.html).
 
 
-_last edited 12/20/2024_
+> _last edited 1/23/2025_
