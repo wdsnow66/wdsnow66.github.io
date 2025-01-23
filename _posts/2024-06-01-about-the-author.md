@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About the Poster"
 author: "wdsnow"
 categories: journal
 tags: [documentation,author]
