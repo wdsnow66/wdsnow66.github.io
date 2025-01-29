@@ -12,6 +12,8 @@ image: reference-desk.jpg
 There are a variety of resources at Stanford and other academic research institutions. 
 > An emerging website from UIT Computer Research Conslting (CRC) that identifies resources related to the Research Data Workflow is the Research Lab Support [Research Guidelines and Resources](https://cdoane.sites.stanford.edu){:target="_blank"}.
 
+
+
 ## Within the Institution
 * Library and Archives [Research Services](https://www.hoover.org/library-archives/research-services){:target="_blank"}
 * For more general Stanford IT questions, Researchers should use this [service request form](https://stanford.service-now.com/it_services?)
@@ -56,7 +58,9 @@ There are a variety of resources at Stanford and other academic research institu
 * Self-service websites with [Stanford Sites](https://uit.stanford.edu/service/stanfordsites){:target="_blank"}
 * Stanford guide to [choosing a Repository](https://guides.library.stanford.edu/data-sharing/where){:target="_blank"}
 
-> Another emerging website from Stanford DOR is the [Community of Shared Research Platforms](https://csharp.stanford.edu/) (C-ShaRP) enhancing shared research facilities. Here is their Wiki about [data research workflow](https://sites.google.com/stanford.edu/c-sharpwikipage/about?authuser=0){:target="_blank"}.
+
+
+> Another emerging website from Stanford Dean of Research is the [Community of Shared Research Platforms](https://csharp.stanford.edu/){:target="_blank"} (C-ShaRP) enhancing shared research facilities. Check out their Wiki about [data research workflow](https://sites.google.com/stanford.edu/c-sharpwikipage/about?authuser=0){:target="_blank"}.
 
 ## Other Research Centers
 * Harvard [Research Lifecycle](https://researchsupport.harvard.edu/research-lifecycle){:target="_blank"}
