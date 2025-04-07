@@ -72,7 +72,7 @@ The student data was shared by States under respective Data Use Agreements negot
 ## Outline for your Data Plan
 Based on the CREDO experience and benchmarking other research data workflows and the DMP tool, I would recommend this as a "mini-plan" format:
 
-### Data Management and Sharing Plan (SMSP)
+### Data Management and Sharing Plan (DMSP)
 
 * Data Types
   - types and estimated amount of scientific data 
