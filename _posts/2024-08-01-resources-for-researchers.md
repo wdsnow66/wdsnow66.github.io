@@ -34,6 +34,7 @@ There are a variety of resources at Stanford and other academic research institu
 * Sharing
   - Data Sharing using [FAIR Principles](https://doresearch.stanford.edu/resources/topics/manage-research-data){:target="_blank"}
   - Share files securely at Stanford in [Google My Drive](https://uit.stanford.edu/service/gsuite/drive/secureshare){:target="_blank"}
+  - Library of Congress [Choosing a Dataset Repository](https://guides.loc.gov/datasets/repositories){:target="_blank"}
   - Host a website directly from your GitHub repository with [GitHub Pages](GitHub Pages website hosted directly from your GitHub repository){:target="_blank"}
   - Benchmark website using data on Redivis and a website on GitHub using Observable [Item Response Warehouse](https://datapages.github.io/irw/){:target="_blank"}
   - Benchmark website using data and Story Maps on ArcGIS [Hoover Tectonics](https://tectonics.hoover.stanford.edu/){:target="_blank"}
@@ -54,6 +55,7 @@ There are a variety of resources at Stanford and other academic research institu
 * Stanford Cloud Computing with [Cardinal Cloud](https://uit.stanford.edu/cardinal-cloud){:target="_blank"}
 * Redivis [Data Farm](https://redivis.com/Stanford){:target="_blank"}
 * Self-service websites with [Stanford Sites](https://uit.stanford.edu/service/stanfordsites){:target="_blank"}
+* Stanford SUL [Office of Scholarly Communications](https://library.stanford.edu/libraries/office-scholarly-communications){:target="_blank"}
 * Stanford guide to [choosing a Repository](https://guides.library.stanford.edu/data-sharing/where){:target="_blank"}
 
 > Another emerging website from Stanford Dean of Research is the [Community of Shared Research Platforms](https://csharp.stanford.edu/){:target="_blank"} (C-ShaRP) enhancing shared research facilities. Check out their Wiki about [data research workflow](https://sites.google.com/stanford.edu/c-sharpwikipage/about?authuser=0){:target="_blank"}.
